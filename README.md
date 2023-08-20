@@ -2,6 +2,8 @@
 
 ![Banner Image](Captura%20de%20pantalla%202023-08-14%20a%20la(s)%2020.07.28.png)  <!-- Banner image showcasing a key plot from the analysis. -->
 
+---
+
 In 2019, our globe faced numerous health challenges. These challenges, diverse and profound, are reflected in mortality statistics that vary by diseases, accidents, and regions. The project **Mapping Mortality** delves deep into these data, presenting a comprehensive view of death causes worldwide.
 
 ## 🎯 Key Objectives:
