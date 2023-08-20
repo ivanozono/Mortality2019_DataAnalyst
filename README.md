@@ -1,6 +1,6 @@
 # 🌍 Mapping Mortality: Global Insights from 2019
 
-![Banner Image](path_to_a_relevant_image_or_graph_from_the_analysis)  <!-- Consider adding a banner image from your analysis, it can be a key plot or any other relevant visual. Replace 'path_to_a_relevant_image_or_graph_from_the_analysis' with the actual path. -->
+![Banner Image](Captura%20de%20pantalla%202023-08-14%20a%20la(s)%2020.07.28.png)  <!-- Banner image showcasing a key plot from the analysis. -->
 
 In 2019, our globe faced numerous health challenges. These challenges, diverse and profound, are reflected in mortality statistics that vary by diseases, accidents, and regions. The project **Mapping Mortality** delves deep into these data, presenting a comprehensive view of death causes worldwide.
 
@@ -34,11 +34,12 @@ As an experienced Data Analyst, this project showcases:
 ## 📌 Conclusion:
 The insights derived from this project are invaluable for policymakers, healthcare professionals, and researchers. It not only provides a snapshot of 2019 but sets the stage for comparisons with subsequent years, especially given the unique challenges of 2020.
 
-## 🔗 [Explore the Jupyter Notebook](link_to_the_notebook_on_github)
+## 🔗 [Explore the Jupyter Notebook](https://github.com/ivanozono/Mortality2019_DataAnalyst/blob/a74d63f91359388969592897446b94080b7c561d/Mortality_Data_Analysis.ipynb)
 
 ---
 
 **Contact**: 
-- [LinkedIn](your_linkedin_link)
-- 📧 Email: your_email@example.com
+- [LinkedIn](www.linkedin.com/in/ivan-ozono)
+- 📧 Email: sabel4008@gmail.com
+
 
