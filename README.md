@@ -21,25 +21,31 @@ The dataset spans variables such as:
 - Distribution across Continents and Countries
 
 ## 🛠️ Tools & Technologies:
-- **Python**
-- Libraries: pandas, matplotlib, seaborn, pycountry_convert, sklearn.
+- **Python** with libraries like pandas, matplotlib, seaborn, pycountry_convert, sklearn.
+- **Tableau** for advanced data visualization.
 
 ## 💼 Skills Demonstrated:
-As an experienced Data Analyst, this project showcases:
+As an Data Analyst, this project showcases:
 - **Critical Analysis**: Deep exploration of global mortality patterns.
-- **Data Visualization**: Effective use of plots and graphs to represent complex data.
+- **Data Visualization**: Effective use of plots, graphs, and advanced visualizations in Tableau.
 - **Problem Solving**: Addressing complex questions and deriving meaningful insights.
 - **Communication**: Structured and clear presentation of findings.
+- **Data Storytelling**: Using Tableau to communicate complex data narratives.
 
 ## 📌 Conclusion:
 The insights derived from this project are invaluable for policymakers, healthcare professionals, and researchers. It not only provides a snapshot of 2019 but sets the stage for comparisons with subsequent years, especially given the unique challenges of 2020.
 
-## 🔗 [Explore the Jupyter Notebook](https://github.com/ivanozono/Mortality2019_DataAnalyst/blob/a74d63f91359388969592897446b94080b7c561d/Mortality_Data_Analysis.ipynb)
+---
+
+## 🔗 Links:
+- [Explore the Jupyter Notebook Analysis](https://github.com/ivanozono/Mortality2019_DataAnalyst/blob/a74d63f91359388969592897446b94080b7c561d/Mortality_Data_Analysis.ipynb)
+- [Visualize the Analysis in Tableau](https://public.tableau.com/app/profile/ivan.ozono/viz/MortalityAnalysisVisualization2019/Dashboard1?publish=yes)
 
 ---
 
 **Contact**: 
 - [LinkedIn](www.linkedin.com/in/ivan-ozono)
 - 📧 Email: sabel4008@gmail.com
+
 
 
