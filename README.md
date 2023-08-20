@@ -46,7 +46,7 @@ The insights derived from this project are invaluable for policymakers, healthca
 ---
 
 **Contact**: 
-- [LinkedIn](www.linkedin.com/in/ivan-ozono)
+- [LinkedIn](https://www.linkedin.com/in/ivan-ozono/)
 - 📧 Email: sabel4008@gmail.com
 
 
